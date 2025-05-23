@@ -8,9 +8,13 @@ Task Manager é uma API RESTful desenvolvida para gerenciar projetos, usuários 
 ## 👥 INTEGRANTES
 
 <a href="https://github.com/GiovannyLino" target="_blank">Giovanny Lino Tavares de Oliveira</a>
+<br>
 <a href="https://github.com/lucaslm88" target="_blank">Lucas Leite de Mello</a>
+<br>
 <a href="https://github.com/dhiego62" target="_blank">Dhiego Ferreira dos Santos</a>
+<br>
 <a href="https://github.com/JulioYukio" target="_blank">Julio Yukio Matsumoto Nagawa</a>
+<br>
 
 ## 🛠️ TECNOLOGIAS DA APLICAÇÃO
 
